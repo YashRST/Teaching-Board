@@ -1,0 +1,14 @@
+release/drawableComponent.o
+release/ellipseComponent.o
+release/eraseComponent.o
+release/freehandComponent.o
+release/imageComponent.o
+release/lineComponent.o
+release/main.o
+release/pageInformation.o
+release/rectangleComponent.o
+release/redo.o
+release/tbModel.o
+release/teachingboard.o
+release/undo.o
+release/moc_teachingboard.o

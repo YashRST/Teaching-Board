@@ -1,0 +1,14 @@
+debug/drawableComponent.o
+debug/ellipseComponent.o
+debug/eraseComponent.o
+debug/freehandComponent.o
+debug/imageComponent.o
+debug/lineComponent.o
+debug/main.o
+debug/pageInformation.o
+debug/rectangleComponent.o
+debug/redo.o
+debug/tbModel.o
+debug/teachingboard.o
+debug/undo.o
+debug/moc_teachingboard.o
